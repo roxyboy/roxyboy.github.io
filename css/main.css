@@ -54,6 +54,7 @@ body {
 }
 .carousel-inner > .item > img {
   position: absolute;
+  background: url(../img/background.jpg) no-repeat center center scroll;
   top: 0;
   left: 0;
   min-width: 100%;
